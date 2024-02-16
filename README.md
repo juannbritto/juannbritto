@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Sou Juan Brito, apaixonado por tecnologia desde criança decidi me aventurar nessa área em 2022. Sou técnico em Desenvolvimento de Sistemas e gosto de programar em Java, quero continuar me aperfeiçoando e aprendendo as tecnologias que já conheço mas ainda assim explorar novas tecnologias e projetos.
+
+
 <!--
 **juannbritto/juannbritto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
