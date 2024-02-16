@@ -14,6 +14,6 @@ Trabalhei na Marinha do Brasil durante 2 anos após minha baixa decidi fazer o q
 
 
 # 🌐 Sociais
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/https://www.linkedin.com/in/juan-brito-paixao/) ![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
